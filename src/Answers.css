@@ -1,0 +1,10 @@
+.btn-qwork {
+  background-color: #FBCF0D;
+  color: black;
+  border: none;
+}
+
+.btn-qwork:hover {
+  background-color: rgb(141, 128, 70);
+  color: white;
+}
